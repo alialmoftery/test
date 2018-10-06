@@ -1,4 +1,4 @@
-token=NDk4MjQ4Nzc3Nzc0MTM3MzQ0.Dpq-JQ.slPxvi7U2Kp4shbYEwqjeSsTpG0
+token=NDk3ODI5NjYzNTI4NDUyMDk2.DprFGg.xxMuef00X9I65S715sQi5BQ4F0k
 owner=410421617869455370
 prefix=O
 game=Type Ohelp
